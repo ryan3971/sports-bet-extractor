@@ -1,0 +1,11 @@
+bet_status,bet_type,event_name,time_status,legs,odds,total_wager,bet_return,bet_id,placed_time,bonus_bet
+won,single-leg,,Finished,"[{'leg_name': 'Oilers Super Boost - Connor McDavid, Leon Draisaitl and Evan Bouchard to Each Record a Point (Max Bet $25, May 31)', 'leg_info': 'NHL Super Boost - May 31'}]",+165,$25.00,$66.25,#87156327.25,"May 31, 2024 7:10PMET",
+lost,single-leg,,Finished,"[{'leg_name': ""Ke'Bryan Hayes"", 'leg_info': 'To Record 2+ Hits'}]",+260,$33.00,$0.00,#87120469.25,"May 31, 2024 4:05PMET",
+won,single-leg,,Finished,"[{'leg_name': 'Walker Buehler 7+ Strikeouts', 'leg_info': 'Walker Buehler - Alt Strikeouts'}]",+164,$44.00,$116.16,#87119554.25,"May 31, 2024 3:58PMET",
+won,single-leg,,Finished,"[{'leg_name': 'Over (3.5)', 'leg_info': 'Los Angeles Angels Alt. Total Runs'}]",+142,$52.00,$125.84,#87118386.25,"May 31, 2024 3:47PMET",
+won,single-leg,,Finished,"[{'leg_name': 'Under 2.5', 'leg_info': 'Total Sets'}]",-142,$82.00,$139.75,#87088841.25,"May 31, 2024 10:54AMET",
+won,single-leg,,Finished,"[{'leg_name': ""Mavs @ T'Wolves Boost - Anthony Edwards and Luka Doncic to Combine for 60+ Points (Max Bet $25)"", 'leg_info': 'NBA Super Boost (May 30, Max Bet $25)'}]",+155,$25.00,$63.75,#87020259.25,"May 30, 2024 6:52PMET",
+lost,single-leg,,Finished,"[{'leg_name': 'D-Backs v Mets Boost - Gallen to Record 5+ Strikeouts and D-backs to Win (Max Bet $50)', 'leg_info': 'MLB Odds Boost (May 30, Max Bet $50)'}]",+175,$50.00,$0.00,#87019905.25,"May 30, 2024 6:51PMET",
+won,single-leg,,Finished,"[{'leg_name': 'Yankees @ Angels Boost - Aaron Judge to Hit a Home Run and Yankees to Win (Max Bet $50)', 'leg_info': 'MLB Odds Boost (May 30, Max Bet $50)'}]",+450,$47.00,$258.50,#87019798.25,"May 30, 2024 6:50PMET",
+lost,single-leg,,Finished,"[{'leg_name': 'Home Cooking Odds Boost - Corey Conners to Record 67 or Better in Round 1 (May 30, Max Bet $50)', 'leg_info': 'PGA Odds Boost (May 30)'}]",+150,$24.00,$0.00,#86904029.25,"May 29, 2024 6:53PMET",
+won,single-leg,,Finished,"[{'leg_name': 'Birthday Boy Odds Boost - Paul Skenes to Record 7+ Strikeouts and Pirates Win Game 2 vs Tigers (May 29, Max Bet $50)', 'leg_info': 'MLB Odds Boost (May 29)'}]",+200,$50.00,$150.00,#86853678.25,"May 29, 2024 12:34PMET",

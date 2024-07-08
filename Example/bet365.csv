@@ -1,0 +1,11 @@
+date_and_time,bet_type,selection_labels,odds,fixture_label,odds_holder,stake,boost,wager,return,bonus_bet
+07/03/2024 17:48:32,Same Game Parlay,"['Money Line -\xa0PHX Mercury', 'Brittney Griner: 25+ Points', 'Brittney Griner: 7+ Rebounds']",+800,PHX Mercury @ DAL Wings,"[700.0, 700.0, 800.0]",$6.00 Same Game Parlay @ +800,,Wager $6.00,Return $0.00,False
+07/03/2024 16:59:23,Same Game Parlay,"['Money Line - CIN Reds', 'Under 8.5 Runs', 'Andrew Abbott: 1+ Pitcher Strikeouts']",+425,CIN Reds @ NY Yankees,[425.0],$32.00 Same Game Parlay @ +425,30% Profit Boost,Wager $32.00,Return $208.80,False
+07/02/2024 18:57:37,Single,['Alec Bohm (PHI Phillies) - Under 0.5'],-140,,,$77.00 Single,,Wager $77.00,Return $132.00,False
+07/02/2024 18:46:04,Same Game Parlay,"['A Run in the Bottom of the 1st - No', 'A Run in the Top of the 1st - No']",+100,PHI Phillies @ CHI Cubs,[100.0],"3 Leg Parlay, 1 bet * $20.00",,Wager $20.00,Return $0.00,False
+07/02/2024 18:41:50,Single,['Ariel Atkins: 5+ Rebounds'],+155,,,$110.00 Single,,Wager $110.00,Return $0.00,False
+07/02/2024 17:14:56,Same Game Parlay,"['Money Line - MIA Marlins', 'Jazz Chisholm: 1+ Runs', 'Bryan De La Cruz: 1+ Runs']",+750,BOS Red Sox @ MIA Marlins,"[625.0, 625.0, 750.0]",$15.00 Same Game Parlay @ +750,,Wager $15.00,Return $0.00,False
+07/02/2024 11:19:07,Same Game Parlay,"['Match result will be Brazil', 'Vinicius Jr. - Over 0.5 Shots on Target']",+200,Brazil v Colombia,"[120.0, 120.0, 200.0]",$20.00 Same Game Parlay @ +200,Super  Boost,Wager $20.00,Return $0.00,False
+06/18/2024 18:42:40,Same Game Parlay,"['Money Line - CHI Cubs', 'Justin Steele - Over 5.5 Strikeouts', 'Justin Steele - Under 5.5 Hits Allowed']",+600,SF Giants @ CHI Cubs,"[550.0, 550.0, 600.0]",$30.00 Same Game Parlay @ +600,,Wager $30.00,Return $210.00,False
+06/18/2024 18:06:15,Same Game Parlay,"['Ryan Nugent-Hopkins to Score a Goal', 'Over 1.5 Goals', 'Under 9.5 Goals']",+475,EDM Oilers @ FLA Panthers,[475.0],$40.00 Same Game Parlay @ +475,50% Profit Boost,Wager $40.00,Return $0.00,False
+06/18/2024 11:25:45,Same Game Parlay,"['Match result will be Portugal', 'Cristiano Ronaldo - Over 0.5 Shots on Target']",+125,Portugal v Czech Republic,"[-134.0, -134.0, 125.0]",$20.00 Same Game Parlay @ +125,Super  Boost,Wager $20.00,Return $45.00,False
