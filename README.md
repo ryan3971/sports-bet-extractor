@@ -1,6 +1,7 @@
 # Bet Extractor
 
-This repository contains scripts to extract and process betting data. The key components include a configuration file, a bet extraction script, and a script to run the bet extraction process.
+This repository contains scripts to extract and process betting data. The key components include a configuration file, a bet extraction script, and a script to run the bet extraction process. The project was designed to produce data that could easily be imported int othe following worksheet:
+https://www.aussportsbetting.com/tools/betting-tracker-excel-worksheet/
 
 ## Files
 
