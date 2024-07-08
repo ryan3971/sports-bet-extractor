@@ -2,7 +2,7 @@
 
 This repository contains scripts to extract and process betting data. The key components include a configuration file, a bet extraction script, and a script to run the bet extraction process. 
 
-*Note:*
+**Note:**
 The project was designed to produce data that could easily be imported int othe following worksheet:
 https://www.aussportsbetting.com/tools/betting-tracker-excel-worksheet/
 Open the linked workbook and run the provided VBA script, import_data.bas to import the sport betting information produced from running this project.
